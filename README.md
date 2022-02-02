@@ -9,4 +9,6 @@ Counts laps:
 - 20 min long break after every 4 work lap
 
 ## Usage
-Run the Pomodoro Timer.exe in the pomodoro file.
+Download the pomodoro file and run Pomodoro Timer.exe.
+
+## Cheers!
